@@ -3211,3 +3211,7 @@ BCLib - The End  BiomeSource (7c57a1d2)
 [01:05:22] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player xX_nekouraxD_Xx. Claiming: GRAVE / Robbing: INVENTORY
 [01:05:27] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of xX_nekouraxD_Xx accepted server config.
 [01:05:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:09:30] [Server thread/INFO]: xX_nekouraxD_Xx lost connection: Disconnected
+[01:09:30] [Server thread/INFO]: xX_nekouraxD_Xx left the game
+[01:09:30] [Server thread/INFO]: remove player wand
+[01:09:30] [Server thread/INFO]: Updating all forceload tickets for ff4ae6bc-ecde-3b9d-bca1-ab72391660b6
